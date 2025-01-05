@@ -1,9 +1,9 @@
-<h1>Hi, I am Branden Scott, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I am Branden Scott, an <a href="https://linkedin.com/in/Josh">IT Professional
 
 <h2> My Information Technology Project:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Filtering network traffic using Wireshark in Microsoft Azure]([https://github.com/joshmadakorcc/configure-ad](https://github.com/BrandenwTech/Filtering-network-traffic-on-VM-s-in-Microsoft-Azure))
 
 <h2> Contact me on LinkedIn:</h2>
 
