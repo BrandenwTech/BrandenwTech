@@ -1,4 +1,4 @@
-<h1>I'm Branden Scott, an <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/branden-scott-9b4515277/)">IT Professional</a>.</h1>
+<h1>I'm Branden Scott, an <a href="[https://linkedin.com/in/Josh](https://www.linkedin.com/in/branden-scott-9b4515277/)">Information Technology & Telecommunications Professional</a>.</h1>
 
 <h2> Information Technology Project:</h2>
 
