@@ -3,7 +3,7 @@
 <h2> My Information Technology Project:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Filtering network traffic using Wireshark in Microsoft Azure]([https://github.com/joshmadakorcc/configure-ad](https://github.com/BrandenwTech/Filtering-network-traffic-on-VM-s-in-Microsoft-Azure))
+  - [Filtering network traffic using Wireshark in Microsoft Azure]https://github.com/joshmadakorcc/configure-ad](https://github.com/BrandenwTech/Filtering-network-traffic-on-VM-s-in-Microsoft-Azure
 
 <h2> Contact me on LinkedIn:</h2>
 
